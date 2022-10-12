@@ -126,7 +126,7 @@ body{
         display: block;
     }
     .mobile-menu{
-        clip-path: circle(112% at 100% 0%);
+        clip-path: circle(100% at 100% 0%);
     }
     .primary-menu li a:after{
         display: none;
